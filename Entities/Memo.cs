@@ -9,7 +9,6 @@ namespace Entities
     public class Memo
     {
         public int Id { get; set; }
-        public string 
-
+        public string Note { get; set; }
     }
 }
